@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+body{
+	background-color:#0C6;}/* CSS Document */
+header{
+	background-color:#FF0;
+	}
+	
+li{
+	background-color:#0F6;
+	font-size:30px;
+	display:inline;
+	margin:30px;}
+#barralateral{
+	margin-top:20px;
+	background-color:#0CF;
+	float:left;	
+	height:100px;
+	width:280px;
+	margin-right:auto;
+	padding:20px;
+	}
+	
+#principal{
+	margin-left:300px;
+	background-color:#CFA;
+	padding:20px;
+	margin-top:20px;
+
+	}
+
+#pie{background:#F60;
+clear:both;
+margin-top:50px;
+padding:5px;
+}
